@@ -1,11 +1,11 @@
-package LeetCode;
+package LeetCode.PartialEqualSubSetSum;
 
 import java.util.Arrays;
 
 /**
  * Created by Akashravindranath on 6/23/17.
  */
-public class Partial_Equal_Subset {
+public class Solution {
     public boolean canPartition(int[] nums) {
         int sum = 0;
 
